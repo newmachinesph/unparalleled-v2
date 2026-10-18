@@ -1,0 +1,16 @@
+{
+  "name": "Unparalleled Consulting & Management LLC",
+  "short_name": "Unparalleled",
+  "description": "Professional bookkeeping, consulting, and speaking services for growing businesses.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0078D4",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
